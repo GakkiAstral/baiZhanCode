@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-JavaQuickStart/01-JavaQuickStart.iml" filepath="$PROJECT_DIR$/01-JavaQuickStart/01-JavaQuickStart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-FoundationImprovement/02-FoundationImprovement.iml" filepath="$PROJECT_DIR$/02-FoundationImprovement/02-FoundationImprovement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baiZhanCode.iml" filepath="$PROJECT_DIR$/baiZhanCode.iml" />
+    </modules>
+  </component>
+</project>
