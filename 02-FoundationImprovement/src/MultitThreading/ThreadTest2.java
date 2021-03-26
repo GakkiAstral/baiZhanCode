@@ -29,5 +29,9 @@ public class ThreadTest2 implements Runnable {
         thread22.start();
 
         System.out.println("主线程关闭");
+        /**
+         * 实现Runnable接口区别于继承Thread类的地方在于，实现接口后的实例需要经过Thread类包装一下
+         * 只有包装后才可以strat，因为线程启动方法也是Thread类中的
+         */
     }
 }
