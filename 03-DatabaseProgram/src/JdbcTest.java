@@ -117,8 +117,8 @@ public class JdbcTest {
     public static void main(String[] args) {
         JdbcTest test = new JdbcTest();
         //test.insertDepartments("65535","教学部", 9);
-        test.updateDempartments("研发部", 8, 65535);
-        //test.selectDepartmentsById(6);
+        //test.updateDempartments("研发部", 8, 65535);
+        test.selectDepartmentsById(6);
         //test.sqlInject("研发部' or 1=1 -- ", 8);
     }
 }

@@ -83,13 +83,13 @@ public class JdbcUtil {
     }
 
     //事务回滚
-    public static void rollback(Connection conn) {
-        try {
-            if (conn != null) {
+    public static void rollback(Connection conn){
+        if (conn != null) {
+            try {
                 conn.rollback();
+            } catch (SQLException e) {
+                e.printStackTrace();
             }
-        } catch (SQLException e) {
-            e.printStackTrace();
         }
     }
 }
