@@ -168,7 +168,7 @@ public class PreparedStatementDemo {
             System.out.println(dept.getDepartment_id() + " " + dept.getDepartment_name() + " " + dept.getLocation_id());
         }*/
 
-        /*List<Departments> list = new ArrayList<>();
+        List<Departments> list = new ArrayList<>();
         for (int i = 0; i < 10; i++) {
             Departments dept = new Departments();
             dept.setDepartment_id("innover1" + i);
@@ -176,8 +176,8 @@ public class PreparedStatementDemo {
             dept.setLocation_id(30 + i);
             list.add(dept);
         }
-        preparedStatementDemo.addBatch(list);*/
+        preparedStatementDemo.addBatch(list);
 
-        preparedStatementDemo.deleteDepartments("产品部运维");
+        //preparedStatementDemo.deleteDepartments("产品部运维");
     }
 }

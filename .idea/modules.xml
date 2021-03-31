@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01-JavaQuickStart/01-JavaQuickStart.iml" filepath="$PROJECT_DIR$/01-JavaQuickStart/01-JavaQuickStart.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-FoundationImprovement/02-FoundationImprovement.iml" filepath="$PROJECT_DIR$/02-FoundationImprovement/02-FoundationImprovement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-DatabaseProgram/03-DatabaseProgram.iml" filepath="$PROJECT_DIR$/03-DatabaseProgram/03-DatabaseProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.5-DatabaseFrameworkTest/03.5-DatabaseFrameworkTest.iml" filepath="$PROJECT_DIR$/03.5-DatabaseFrameworkTest/03.5-DatabaseFrameworkTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/baiZhanCode.iml" filepath="$PROJECT_DIR$/baiZhanCode.iml" />
     </modules>
   </component>
